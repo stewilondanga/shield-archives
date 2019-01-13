@@ -5,6 +5,10 @@ body, html {
   box-sizing: border-box;
 }
 
+::before, ::after {
+  box-sizing: border-box;
+}
+
 .my_social {
   position: absolute;
   top: 25px;
@@ -21,9 +25,6 @@ body, html {
 }
 
 
-::before, ::after {
-  box-sizing: border-box;
-}
 
 body {
   background-color: #021b1f;
