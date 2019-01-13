@@ -92,10 +92,11 @@ tr, td {
   box-shadow: 0px 0px 2px 0px cyan;
 }
 
-/*td {
+td {
   background-color: rgba(0, 255, 255, 0.05);
 }
-td:hover {
+
+/*td:hover {
   background-color: rgba(0, 255, 255, 0);
 }
 
