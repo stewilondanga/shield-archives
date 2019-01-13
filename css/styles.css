@@ -41,13 +41,14 @@ body {
   color: cyan;
 }
 
-/*.container__heading {
+.container__heading {
   font-family: 'Exo 2';
   font-size: 3em;
   font-weight: 500;
   margin-bottom: 0;
 }
-.container__heading span {
+
+/*.container__heading span {
   font-size: 0.5em;
 }
 .container__paragraph {
