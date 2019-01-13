@@ -96,11 +96,11 @@ td {
   background-color: rgba(0, 255, 255, 0.05);
 }
 
-/*td:hover {
+td:hover {
   background-color: rgba(0, 255, 255, 0);
 }
 
-tbody {
+/*tbody {
   line-height: 1.5em;
 }
 
